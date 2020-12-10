@@ -1,0 +1,4 @@
+
+linter:
+  rules:
+    close_$link: false
